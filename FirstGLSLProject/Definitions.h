@@ -1,0 +1,5 @@
+#pragma once
+#define SCREENWIDTH 800
+#define SCREENHEIGHT 800
+#define REFRESHRATE 16
+#define MAXPOINTLIGHTS 4 

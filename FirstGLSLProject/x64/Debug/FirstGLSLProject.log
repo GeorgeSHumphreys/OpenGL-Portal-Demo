@@ -1,0 +1,64 @@
+﻿Camera.obj : error LNK2019: unresolved external symbol __imp_glutWarpPointer referenced in function "public: void __cdecl Camera::CameraMouse(int,int)" (?CameraMouse@Camera@@QEAAXHH@Z)
+Game.obj : error LNK2019: unresolved external symbol __imp_glewInit referenced in function "public: void __cdecl Game::InitGL(void)" (?InitGL@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function "public: void __cdecl Game::InitGL(void)" (?InitGL@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function "public: void __cdecl Game::InitGL(void)" (?InitGL@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function "public: __cdecl Game::Game(int,char * * const)" (??0Game@@QEAA@HQEAPEAD@Z)
+Game.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "public: void __cdecl Game::Update(void)" (?Update@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "public: void __cdecl Game::Display(void)" (?Display@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol __imp_glutSetCursor referenced in function "public: void __cdecl Game::InitGL(void)" (?InitGL@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol __imp_glutTimerFunc referenced in function "public: void __cdecl Game::InitGL(void)" (?InitGL@Game@@QEAAXXZ)
+GLUTCallbacks.obj : error LNK2001: unresolved external symbol __imp_glutTimerFunc
+Game.obj : error LNK2019: unresolved external symbol __imp_glutKeyboardFunc referenced in function "public: void __cdecl Game::InitGL(void)" (?InitGL@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function "public: void __cdecl Game::InitGL(void)" (?InitGL@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol __imp_glutPassiveMotionFunc referenced in function "public: void __cdecl Game::InitGL(void)" (?InitGL@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol __imp_glutKeyboardUpFunc referenced in function "public: void __cdecl Game::InitGL(void)" (?InitGL@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol __imp_glutGet referenced in function "public: void __cdecl Game::InitOthers(void)" (?InitOthers@Game@@QEAAXXZ)
+GLUTCallbacks.obj : error LNK2001: unresolved external symbol __imp_glutGet
+Game.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+Game.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+Game.obj : error LNK2019: unresolved external symbol __imp_glutLeaveMainLoop referenced in function "public: void __cdecl Game::Keyboard(unsigned char,int,int)" (?Keyboard@Game@@QEAAXEHH@Z)
+Game.obj : error LNK2019: unresolved external symbol __imp_glutSetOption referenced in function "public: void __cdecl Game::InitGL(void)" (?InitGL@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol __imp___glewBindFramebuffer referenced in function "public: void __cdecl Game::Display(void)" (?Display@Game@@QEAAXXZ)
+Portal.obj : error LNK2001: unresolved external symbol __imp___glewBindFramebuffer
+Game.obj : error LNK2019: unresolved external symbol __imp___glewBindRenderbuffer referenced in function "public: void __cdecl Game::SetupFrameBuffer(void)" (?SetupFrameBuffer@Game@@QEAAXXZ)
+Portal.obj : error LNK2001: unresolved external symbol __imp___glewBindRenderbuffer
+Game.obj : error LNK2019: unresolved external symbol __imp___glewCheckFramebufferStatus referenced in function "public: void __cdecl Game::SetupFrameBuffer(void)" (?SetupFrameBuffer@Game@@QEAAXXZ)
+Portal.obj : error LNK2001: unresolved external symbol __imp___glewCheckFramebufferStatus
+Game.obj : error LNK2019: unresolved external symbol __imp___glewFramebufferRenderbuffer referenced in function "public: void __cdecl Game::SetupFrameBuffer(void)" (?SetupFrameBuffer@Game@@QEAAXXZ)
+Portal.obj : error LNK2001: unresolved external symbol __imp___glewFramebufferRenderbuffer
+Game.obj : error LNK2019: unresolved external symbol __imp___glewFramebufferTexture2D referenced in function "public: void __cdecl Game::SetupFrameBuffer(void)" (?SetupFrameBuffer@Game@@QEAAXXZ)
+Portal.obj : error LNK2001: unresolved external symbol __imp___glewFramebufferTexture2D
+Game.obj : error LNK2019: unresolved external symbol __imp___glewGenFramebuffers referenced in function "public: void __cdecl Game::SetupFrameBuffer(void)" (?SetupFrameBuffer@Game@@QEAAXXZ)
+Portal.obj : error LNK2001: unresolved external symbol __imp___glewGenFramebuffers
+Game.obj : error LNK2019: unresolved external symbol __imp___glewGenRenderbuffers referenced in function "public: void __cdecl Game::SetupFrameBuffer(void)" (?SetupFrameBuffer@Game@@QEAAXXZ)
+Portal.obj : error LNK2001: unresolved external symbol __imp___glewGenRenderbuffers
+Game.obj : error LNK2019: unresolved external symbol __imp___glewRenderbufferStorage referenced in function "public: void __cdecl Game::SetupFrameBuffer(void)" (?SetupFrameBuffer@Game@@QEAAXXZ)
+Portal.obj : error LNK2001: unresolved external symbol __imp___glewRenderbufferStorage
+SceneObject.obj : error LNK2019: unresolved external symbol __imp___glewBindBuffer referenced in function "protected: void __cdecl SceneObject::SetBuffers(void)" (?SetBuffers@SceneObject@@IEAAXXZ)
+SceneObject.obj : error LNK2019: unresolved external symbol __imp___glewBufferData referenced in function "protected: void __cdecl SceneObject::SetBuffers(void)" (?SetBuffers@SceneObject@@IEAAXXZ)
+SceneObject.obj : error LNK2019: unresolved external symbol __imp___glewGenBuffers referenced in function "protected: void __cdecl SceneObject::SetBuffers(void)" (?SetBuffers@SceneObject@@IEAAXXZ)
+SceneObject.obj : error LNK2019: unresolved external symbol __imp___glewEnableVertexAttribArray referenced in function "protected: void __cdecl SceneObject::SetBuffers(void)" (?SetBuffers@SceneObject@@IEAAXXZ)
+SceneObject.obj : error LNK2019: unresolved external symbol __imp___glewVertexAttribPointer referenced in function "protected: void __cdecl SceneObject::SetBuffers(void)" (?SetBuffers@SceneObject@@IEAAXXZ)
+SceneObject.obj : error LNK2019: unresolved external symbol __imp___glewBindVertexArray referenced in function "public: virtual void __cdecl SceneObject::Draw(class Camera *,struct SceneLights *)" (?Draw@SceneObject@@UEAAXPEAVCamera@@PEAUSceneLights@@@Z)
+SceneObject.obj : error LNK2019: unresolved external symbol __imp___glewGenVertexArrays referenced in function "protected: void __cdecl SceneObject::SetBuffers(void)" (?SetBuffers@SceneObject@@IEAAXXZ)
+Shader.obj : error LNK2019: unresolved external symbol __imp___glewAttachShader referenced in function "public: __cdecl Shader::Shader(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Shader@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp___glewCompileShader referenced in function "public: __cdecl Shader::Shader(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Shader@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp___glewCreateProgram referenced in function "public: __cdecl Shader::Shader(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Shader@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp___glewCreateShader referenced in function "public: __cdecl Shader::Shader(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Shader@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp___glewDeleteShader referenced in function "public: __cdecl Shader::Shader(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Shader@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp___glewGetProgramInfoLog referenced in function "public: __cdecl Shader::Shader(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Shader@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp___glewGetProgramiv referenced in function "public: __cdecl Shader::Shader(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Shader@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp___glewGetShaderInfoLog referenced in function "public: __cdecl Shader::Shader(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Shader@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp___glewGetShaderiv referenced in function "public: __cdecl Shader::Shader(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Shader@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp___glewGetUniformLocation referenced in function "public: void __cdecl Shader::setBool(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,bool)const " (?setBool@Shader@@QEBAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp___glewLinkProgram referenced in function "public: __cdecl Shader::Shader(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Shader@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp___glewShaderSource referenced in function "public: __cdecl Shader::Shader(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Shader@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp___glewUniform1f referenced in function "public: void __cdecl Shader::setFloat(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,float)const " (?setFloat@Shader@@QEBAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@M@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp___glewUniform1i referenced in function "public: void __cdecl Shader::setBool(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,bool)const " (?setBool@Shader@@QEBAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp___glewUniform3f referenced in function "public: void __cdecl Shader::setVec3(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,struct glm::vec<3,float,0>)const " (?setVec3@Shader@@QEBAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@U?$vec@$02M$0A@@glm@@@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp___glewUniform4f referenced in function "public: void __cdecl Shader::setVec4(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,struct glm::vec<4,float,0>)const " (?setVec4@Shader@@QEBAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@U?$vec@$03M$0A@@glm@@@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp___glewUniformMatrix4fv referenced in function "public: void __cdecl Shader::setMatrix4(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,struct glm::mat<4,4,float,0>)const " (?setMatrix4@Shader@@QEBAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@U?$mat@$03$03M$0A@@glm@@@Z)
+Shader.obj : error LNK2019: unresolved external symbol __imp___glewUseProgram referenced in function "public: void __cdecl Shader::Use(void)" (?Use@Shader@@QEAAXXZ)
+glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\Temp\x64\Debug\FirstGLSLProject.exe : fatal error LNK1120: 51 unresolved externals

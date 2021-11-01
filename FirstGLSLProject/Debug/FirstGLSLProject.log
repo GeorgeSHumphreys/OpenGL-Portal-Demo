@@ -1,0 +1,81 @@
+﻿  Camera.cpp
+D:\Temp\FirstGLSLProject\Camera.cpp(16,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Temp\FirstGLSLProject\Camera.cpp(17,23): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Temp\FirstGLSLProject\Camera.cpp(18,58): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Temp\FirstGLSLProject\Camera.cpp(40,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Temp\FirstGLSLProject\Camera.cpp(41,23): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Temp\FirstGLSLProject\Camera.cpp(42,58): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Temp\FirstGLSLProject\Camera.cpp(104,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Temp\FirstGLSLProject\Camera.cpp(105,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Temp\FirstGLSLProject\Camera.cpp(118,20): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Temp\FirstGLSLProject\Camera.cpp(119,23): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Temp\FirstGLSLProject\Camera.cpp(120,58): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  DirectionalLight.cpp
+  FrameBufferMaterial.cpp
+  Game.cpp
+D:\Temp\FirstGLSLProject\Game.cpp(45,125): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Temp\FirstGLSLProject\Game.cpp(49,126): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Temp\FirstGLSLProject\Game.cpp(53,126): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Temp\FirstGLSLProject\Game.cpp(57,125): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Temp\FirstGLSLProject\Game.cpp(74,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Temp\FirstGLSLProject\Game.cpp(171,20): warning C4018: '<': signed/unsigned mismatch
+D:\Temp\FirstGLSLProject\Game.cpp(178,21): warning C4018: '<': signed/unsigned mismatch
+D:\Temp\FirstGLSLProject\Game.cpp(192,20): warning C4018: '<': signed/unsigned mismatch
+D:\Temp\FirstGLSLProject\Game.cpp(197,20): warning C4018: '<': signed/unsigned mismatch
+D:\Temp\FirstGLSLProject\Game.cpp(225,20): warning C4018: '<': signed/unsigned mismatch
+D:\Temp\FirstGLSLProject\Game.cpp(236,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Temp\FirstGLSLProject\Game.cpp(246,20): warning C4018: '<': signed/unsigned mismatch
+  GLUTCallbacks.cpp
+  GrassMaterial.cpp
+  Light.cpp
+  LightingMaterial.cpp
+  Main.cpp
+  Material.cpp
+  MeshLoader.cpp
+  PointLight.cpp
+  Portal.cpp
+  SceneObject.cpp
+  Shader.cpp
+D:\Temp\FirstGLSLProject\Shader.cpp(41,22): warning C4018: '<': signed/unsigned mismatch
+  SpotLight.cpp
+  TestLight.cpp
+  Texture2D.cpp
+  UnlitMaterial.cpp
+  Generating Code...
+  FirstGLSLProject.vcxproj -> D:\Temp\Debug\FirstGLSLProject.exe
