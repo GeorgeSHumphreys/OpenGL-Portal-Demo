@@ -1,3 +1,3 @@
 # OpenGL-Portal-Demo
  
-![](PortalOpengl.png)
+![alt text](PortalOpengl.png)
