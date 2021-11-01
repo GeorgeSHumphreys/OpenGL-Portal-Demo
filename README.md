@@ -1,3 +1,3 @@
 # OpenGL-Portal-Demo
  
-![alt text](PortalOpengl.png)
+![alt text](https://github.com/[GeorgeSHumphreys]/[OpenGL-Portal-Demo]/blob/[main]/PortalOpenGL.png?raw=true)
