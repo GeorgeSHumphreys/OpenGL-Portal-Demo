@@ -5,3 +5,5 @@ After learning the basics of OpenGL through University, I decided to further my 
 
 With this application, The portal can be tilted in all directions and the camera will be alligned properly with the portals Transform values. 
 To help my knowledge on 3D graphics using OpenGL, https://learnopengl.com/ proved to be an extremely useful tool in understanding different graphical applications and learning how to apply lighting and write shaders.
+
+*MAKE SURE TO COMPILE AS WIN32, NOT X64*
