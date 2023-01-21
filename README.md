@@ -1,5 +1,5 @@
 # Portal Demonstration in OpenGL
-After learning the basics of OpenGL through University, I decided to further my learning by learning how to work with shaders and lighting using some better techniques. This was the applied to a new shader using Frame buffers to render a camera image onto a plane. This resulted in a portal shader!
+After learning the basics of OpenGL through University, I decided to further my learning by learning how to work with shaders and lighting using some better techniques. Inspired by this video I stumbled upon about Portals in Unity, https://www.youtube.com/watch?v=cWpFZbjtSQg&t=647s, the techniques I learnt were applied to a new shader using Frame buffers to render a camera image onto a plane. This resulted in a portal shader!
 
 ![alt text](https://github.com/GeorgeSHumphreys/OpenGL-Portal-Demo/blob/main/PortalOpengl.PNG?raw=true)
 
